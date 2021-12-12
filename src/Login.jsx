@@ -52,7 +52,7 @@ const Login = () => {
                                 type="text"
                                 name="username"
                                 class="form-control"
-                                placeholder="Dummy Username and Password"
+                                placeholder="Username :Dummy Username and Password"
                               />
                             </div>
                             <div className="form-group">
@@ -60,7 +60,7 @@ const Login = () => {
                                 type="password"
                                 name="password"
                                 class="form-control"
-                                placeholder="Simply click on Sign-in button"
+                                placeholder="Password :Simply click on Sign-in button"
                               />
                             </div>
                           </div>
