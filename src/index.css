@@ -4,6 +4,10 @@
   font-family: "Montserrat", sans-serif;
 }
 
+.Body
+{ 
+  overflow-y : auto; 
+}
 .des {
   position: fixed;
   min-width: 100%;
