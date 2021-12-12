@@ -3,10 +3,10 @@
 * {
   font-family: "Montserrat", sans-serif;
 }
+html {
 
-.Body
-{ 
-  overflow-y : auto; 
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
 }
 .des {
   position: fixed;
