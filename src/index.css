@@ -110,8 +110,6 @@ a:active {
   background-size: cover;
   background-position: center;
   background-image: url("../src/Image/profile.jpg");
-  overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
 }
 
@@ -123,7 +121,7 @@ a:active {
   background-position: center;
   background-image: url("../src/Image/time.jpg");
   overflow-x: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
   z-index: -1;
 }
 
@@ -134,8 +132,6 @@ a:active {
   background-size: cover;
   background-position: center;
   background-image: url("../src/Image/worklist.jpg");
-  overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
 }
 
@@ -152,8 +148,6 @@ a:active {
   height: 296px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
     url("../src/Image/projectmon.jpg");
-   overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
   color: white;
 }
@@ -164,8 +158,6 @@ a:active {
   height: 296px;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
     url("../src/Image/seekask.jpg");
-   overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
   color: white;
 }
@@ -177,8 +169,6 @@ a:active {
   text-align: center;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
     url("../src/Image/learning.jpg");
-   overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
   color: white;
 }
@@ -190,8 +180,6 @@ a:active {
   text-align: center;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
     url("../src/Image/ann.jpg");
-   overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
   color: white;
 }
@@ -203,8 +191,6 @@ a:active {
   text-align: center;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
     url("../src/Image/ben.jpg");
-   overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
   color: white;
 }
@@ -217,8 +203,6 @@ a:active {
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
     url("../src/Image/happen.jpg");
-   overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
   color: white;
 }
@@ -231,8 +215,6 @@ a:active {
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
     url("../src/Image/hr.jpg");
-   overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
   color: white;
 }
@@ -245,8 +227,6 @@ a:active {
 
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.7)),
     url("../src/Image/career.jpg");
-   overflow-x: hidden;
-  overflow-y: scroll;
   z-index: -1;
   color: white;
 }
@@ -370,4 +350,3 @@ background: -webkit-linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
 background: linear-gradient(to right, #fdbb2d, #b21f1f, #1a2a6c);
 }
 /*happening*/
-
