@@ -120,8 +120,7 @@ a:active {
   background-size: cover;
   background-position: center;
   background-image: url("../src/Image/time.jpg");
-  overflow-x: hidden;
-  overflow-y: auto;
+  
   z-index: -1;
 }
 
