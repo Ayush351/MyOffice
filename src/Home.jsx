@@ -449,7 +449,7 @@ const Home = () => {
                               type="text"
                               name="username"
                               class="form-control"
-                              placeholder="Username"
+                              placeholder="Username :Dummy username and password"
                             />
                           </div>
                           <div className="form-group">
@@ -457,7 +457,7 @@ const Home = () => {
                               type="password"
                               name="password"
                               class="form-control"
-                              placeholder="Password"
+                              placeholder="Password :Simply click on sign-in button"
                             />
                           </div>
                         </div>
